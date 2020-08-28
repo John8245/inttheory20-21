@@ -6,7 +6,22 @@ abc: true
 
 ## Class Discussion
 
-TBD
+**Additional Notes on Solfege**
+
+  -Scale degrees are actually written with the caret (^) above the number.
+  -We don't have raised mi/ti and lowered do/fa because of how our system works. Those pitches are already labeled (ie raised ti is do).
+  -There are two systems of solfege. Moveable "do" is based around relative pitch while Fixed "do" is based around absolute pitch.
+ 
+**Accidentals and Enharmonic Equivalence**
+
+  -All pitch classes have a double flat and double sharp except for A-flat. This occurs due to spacing of white note half steps.
+  
+ **Octaves and Clef Relationships**
+ 
+  -Using the ISO system, the first C is labeled C1. Each octave above increases by one (C1, C2, etc.) The notes below C1 are labeled using 0 (A0)
+  -There is a break between every B and C (B3 -> C4). Be cautious when labeling (B-sharp3 instead of B-sharp4).
+    
+  
 
 ## Further Reading
 
