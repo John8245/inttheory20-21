@@ -6,8 +6,24 @@ abc: true
 
 ## Class discussion
 
-TBD
+### Scales ###
 
+- Natural minor has its name because it is the scale that has the exact same notes as a relative major. There are no changes to the notes from the given key signature
+- Harmonic minor has ti and le. This form of minor allows for dominant to tonic function
+- Melodic minor gives options for melody. Depending on context, certain notes will want to move to others. Ti wants to move to Do and Le wants to go down to Sol.
+
+### Modes ###
+
+- Dorian lowers ^7 and ^3 when compared to its parallel major scale. 
+- Dorian and harmonic minor can be mixed up because harmonic minor has a lowered ^6 and raised ^7
+- Phrygian lowers ^2, ^3, ^6, and ^7.
+- When listening to the different modes, you can keep note of which modes sounds lighter or darker compared to each other, in hopes that identifying them aurally becomes easier.
+- Lydian is the **only** mode that raises a scale degree, rather than lowering it. Scale degree ^4 is raised.
+- Lydian is probably the most common mode other than Ionian and Aeolian. Tons of movie music is in Lydian. 
+- Mixolydian lowers the ^7.
+- Aeolian has the same altered scale degrees as Natural minor. Lowered ^3, ^6, and ^7.
+- Locrian lowers the ^2, ^3, ^4, ^5, ^6, ^7
+- In order from raised pitches to lowered: Lydian, Ionian, Mixolydian, Dorian, Aeolian, Phrygian, and Locrian.
 ##Further Reading
 
 ## From *Open Music Theory*
